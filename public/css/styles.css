@@ -10,3 +10,25 @@
     border-radius: 5px;
     
 }
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(150, 150, 57);
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(168, 168, 94);
+    margin-top: 20px;
+}
+
+nav li{
+    display: inline-block;
+    list-style: none;
+    padding: 10px;
+   
+
+   }
